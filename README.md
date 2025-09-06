@@ -1,5 +1,5 @@
                   
-<h1 align="center" style="font-weight: bold;">Full-Stack Trip Planner Web App</h1>
+<h1 align="center" style="font-weight: bold;">Shohoj Travel Planner Web App</h1>
 
 <p align="center">
 <a href="#tech">Technologies |</a>
@@ -13,7 +13,7 @@
 
 
 <h3 align="center">
-<a href="https://ai-trip-planner-barika.vercel.app/" target="_blank">📱 Visit this Project</a>
+<a href="https://shohoj-travel-planner.vercel.app/" target="_blank">📱 Visit this Project</a>
 </h3> <br>
 
 <h2 id="technologies">💻 Technologies</h2>
