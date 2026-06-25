@@ -13,7 +13,7 @@
 
 
 <h3 align="center">
-<a href="https://shohoj-travel-planner.vercel.app/" target="_blank">📱 Visit this Project</a>
+<a href="https://shohoj-travel-planner-nine.vercel.app/" target="_blank">📱 Visit this Project</a>
 </h3> <br>
 
 <h2 id="technologies">💻 Technologies</h2>
